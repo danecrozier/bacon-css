@@ -1,0 +1,22 @@
+h1 {
+  color: #790c5a;
+  font-size: 100px;
+}
+
+h2 {
+  color: #cc0e74;
+  font-size: 75px;
+}
+
+h3 {
+  color: #790c5a;
+  font-size: 50px;
+}
+
+body {
+  background: radial-gradient(#f1d4d4, #e6739f);
+}
+
+img {
+  filter: drop-shadow(0 0 0.75rem crimson);
+}
